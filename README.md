@@ -1,6 +1,6 @@
 # 1 Написать api калькулятора и запустить его в Docker контейнере
 ![image](https://github.com/user-attachments/assets/b6e00195-eb00-4e9f-b6e6-8a455b882f9a)
-docker build -t calc . n\
+docker build -t calc . \
 docker run -d -p 80:80 calc
 ![image](https://github.com/user-attachments/assets/4a36a5ef-4f29-49f7-9ca2-e7ada8202c07)
 ![image](https://github.com/user-attachments/assets/eafdd9e8-5c5c-4dcb-85fb-ce94dc6584d7)
